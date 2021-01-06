@@ -1,0 +1,14 @@
+* [首页](/)
+* [起源](/origin)
+* [全局配置项](/globalConfig)
+* 控件选择
+    * [选择器](/selector)
+    * [$函数参数说明](/selectorParams)
+* 串行流程管理器
+     * [串行流程介绍](/seralizer)
+     * [串行流程](/seralizerDetail)
+     * [串行器配置与扩展](/seralizerConfig)
+* 图色篇章
+    *  [多点找色](/color)
+* 框架获取
+    *  [多点找色](/color)
